@@ -1,0 +1,48 @@
+Black           #010101
+White           #ffffff
+Quicksand       #b29087
+Tundora         #434343
+Downy           #6cc9cb
+Apple Blossom   #ac4243
+Japanese Maple  #770302
+
+
+Silk            #c3b6ab 
+Cod Gray        #0e0e0e
+Irish Coffee    #6b2a27
+Yellow Metal    #767241
+Corduroy        #697772
+
+
+
+Sushi Vibrant               #85b440
+Toast Muted                 #9a766b
+Persian Plum DarkVibrant    #6e1c1b
+Shark DarkMuted             #323334
+Rum Swizzle LightVibrant    #faf7e8
+
+
+Wild Sand       #f6f6f6
+Black           #010101
+Manz            #e6ed76
+Dusty Gray      #959595
+Turquoise       #29d5bf
+Taupe           #504639
+Vesuvius        #ae510d
+Lime            #bcfc1a
+Razzmatazz      #d40f54
+Jordy Blue      #88c7f3
+
+
+Black Haze      #e8eae9
+Woodsmoke       #141415
+Spicy Mix       #835144
+Tacha           #d1c75a
+Turquois        #2dcab7
+
+
+Manz Vibrant            #e5ed6b
+Dorado Muted            #655a56
+Paarl DarkVibrant       #aa5e28
+Taupe DarkMuted         #403730
+Wild Rice LightVibrant  #e1e683
